@@ -1,5 +1,5 @@
 Coba - Coba
 1. Membuat account GITHUB
 2. Membuat file di github
-3. coba edit
-4. cobain rubah commit
+3. cobain rubah commit
+4. cobain hapus commit
